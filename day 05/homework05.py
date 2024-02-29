@@ -1,6 +1,6 @@
-nam1 = int(input("enter your age: "))
+nam1 = int(input("enter your age:  "))
 
-nam2 = int(input("enter your age: "))
+nam2 = int(input("enter your boyfriend or girlfriend: "))
 
 
 
