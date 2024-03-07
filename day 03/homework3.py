@@ -1,6 +1,9 @@
 my_age = 15
+
 ded_age = 36
+
 mom_age = 45 
+
 brothers_age = 20
 
 print(my_age + 2 )

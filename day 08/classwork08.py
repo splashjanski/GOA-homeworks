@@ -1,6 +1,9 @@
-your_age = input("please enterd your age :")
+your_age = int(input("please enterd your age :"))
 
 
-if your_age >= 18:("you ar an adult :")
+if your_age >= 18:
+    print("you ar an adult :)")
     
-if your_age <= 18:("you ar not an adult :") 
+
+else: 
+    print("you ar not an adult :(")
