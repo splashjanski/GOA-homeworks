@@ -1,6 +1,6 @@
 # davaleba 1
 
-# Creating an empty list to store user information
+# # Creating an empty list to store user information
 # user_info = []
 
 # # Adding user input data to the list
@@ -10,17 +10,17 @@
 # last_name = input("Enter your last name: ")
 # user_info.append(last_name)
 
-# age = int(input("Enter your age: "))  # Casting age to int
+# age = int(input("Enter your age: ")) 
 # user_info.append(age)
 
 # residence = input("Enter your place of residence: ")
 # user_info.append(residence)
 
-# Using slicing to print the requested information
-# print("1:", user_info[0], ",", user_info[1])  # 1: First Name, Last Name
-# print("2:", user_info[1], ",", user_info[2])  # 2: Last Name, Age
-# print("3:", user_info[0], ",", user_info[1], ",", user_info[2])  # 3: First Name, Last Name, Age
-# print("4:", user_info[1], ",", user_info[2], ",", user_info[3])  # 4: Last Name, Age, Residence
+ 
+# print("1:", user_info[0], ",", user_info[1])  
+# print("2:", user_info[1], ",", user_info[2])  
+# print("3:", user_info[0], ",", user_info[1], ",", user_info[2])  
+# print("4:", user_info[1], ",", user_info[2], ",", user_info[3])  
 
 
 
@@ -46,16 +46,14 @@
 #davaleba 3
 
 
-# Store first and last name in a variable
+
 # full_name = "tevdore janiashvili"
 
 
-# first_name = full_name[:7] 
-# print("First name:", first_name)
+# print(full_name[:7])
 
 
-# last_name = full_name[8:] 
-# print("Last name:", last_name)
+# print(full_name[8:])
 
 
 
